@@ -11,3 +11,5 @@ strVid -
 2. type "python" (python should be installed)
 3. import strFI ("from strFI import createStrvid")
 4. call the following module ( createStrvid(projectName, image/videoDirectory, quality, textFileDirectory, fontFileDirectory, isGray, watermark) )
+
+### archived - finish working on the project. but, may work on "similar project" in future.
